@@ -13,6 +13,10 @@ namespace GuiaSem14
             int opcion = Pantallas.MenuPrincipal();
             do
             {
+                //omar estuvo aqui
+                //fio estuvo aca 
+                //fio esta aprendiendo 
+                //omar
                 Console.Clear();
                 switch (opcion)
                 {
