@@ -16,7 +16,7 @@ namespace GuiaSem14
                 //omar estuvo aqui
                 //fio estuvo aca 
                 //fio esta aprendiendo 
-               
+               //fio termino aqui 
                 Console.Clear();
                 switch (opcion)
                 {
